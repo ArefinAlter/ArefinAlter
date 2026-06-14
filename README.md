@@ -1,29 +1,46 @@
-<h1 align="center">Hi, I'm Arefin 👋</h1>
+<h1 align="center">Hi, I'm Arefin Mizan 👋</h1>
 
 <p align="center">
-  <b>Forward deployed engineer · Data & Research Consultant</b><br>
-  Working at the intersection of software, machine learning, and public policy.
+  <b>Data & Research Consultant · Forward Deployed Engineer</b><br>
+  Quantitative research, digital public infrastructure, and software that ships.
 </p>
 
 ---
 
 ### About
 
-I build production systems and run research that shapes how digital public infrastructure gets designed and governed.
+I work across research, policy, and engineering.
 
-- 🏛️ Data & Research Consultant at **a2i**, working on digital public infrastructure, interoperability, and digital governance
+- 🏛️ Data & Research Consultant at **a2i** (ICT Division), focused on digital public infrastructure, interoperability, and digital governance
 - 🛠️ Founder of **[Verne](https://vernesystems.com)**, a forward deployed engineering company
-- 🔬 Research across machine learning, deep learning, statistics, and simulation
-- ✍️ I write on system design and summarize research papers
+- ⚙️ Forward Deployed Engineer at **[Ophanix](https://ophanix.org)**, where I built the Ophanix Control Panel
+- 📊 Quantitative researcher across political science, public health, and food systems
+- ✍️ I draft national policy, publish research, and write on system design
 
 ---
 
-### What I'm working on
+### Policy & Strategy
 
-- Digital public infrastructure and interoperability standards
-- Forward deployed engineering for clients through Verne
-- Applied ML and simulation research
-- Long-form writing on system design
+National policies and strategies I have helped author or draft:
+
+- Lead Drafter, **National Startup Policy of Bangladesh**
+- Committee Member, **National AI Policy of Bangladesh**
+- Drafter, **National Blockchain and Cloud Policy**
+- Co-Author, **National Digital Transformation Strategy**
+- Co-Author, **Posts and Telecommunications Division Transformation Strategy 2025–30**
+
+---
+
+### Research
+
+Quantitative and computational work spanning several fields:
+
+- **Public health:** predictive models for cholera early warning, heat stress detection, effective coverage analysis
+- **Food systems:** spatial microsimulation, computable general equilibrium modeling, nutrition-sensitive policy
+- **Political science:** conflict analytics, peace and violence datasets, genocide studies
+- **Computational social science:** NLP on million-document corpora, semantic network analysis of patents
+
+📄 Publications on [ORCID](https://orcid.org/0009-0002-4551-6572)
 
 ---
 
@@ -33,43 +50,78 @@ I build production systems and run research that shapes how digital public infra
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**ML / DL / Research**
+**Machine Learning, Deep Learning & NLP**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
+![Gensim](https://img.shields.io/badge/Gensim-2C3E50?style=for-the-badge)
+
+**Statistics & Simulation**
+
+![SPSS](https://img.shields.io/badge/SPSS-052049?style=for-the-badge)
+![Stata](https://img.shields.io/badge/Stata-1A5276?style=for-the-badge)
+![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Data Visualization**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge)
 
 **Web & Backend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Desktop & Mobile**
+**DevOps & Cloud**
 
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
----
+**MLOps & DataOps**
 
-### GitHub Stats
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=8"/>
-</p>
+**Databases & Research Tools**
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![KoboToolbox](https://img.shields.io/badge/KoboToolbox-2095F3?style=for-the-badge)
+![NVivo](https://img.shields.io/badge/NVivo-5B2C86?style=for-the-badge)
+![MAXQDA](https://img.shields.io/badge/MAXQDA-00A0E3?style=for-the-badge)
+
+
+
 
 ### Writing
 
@@ -84,3 +136,4 @@ I publish on system design and write summaries of research papers I read.
 [![Website](https://img.shields.io/badge/Website-vernesystems.com-1A3C6E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vernesystems.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arefin-mizan-47a08a170/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@vernesystems.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-4551-6572)
