@@ -75,7 +75,7 @@ I build production systems and run research that shapes how digital public infra
 
 I publish on system design and write summaries of research papers I read.
 
-- 📝 [Blog](https://vernesystems.com) <!-- replace with your blog URL -->
+- 📝 [Research Paper Blog](https://thedotproductblog.vercel.app/) <!-- replace with your blog URL -->
 
 ---
 
