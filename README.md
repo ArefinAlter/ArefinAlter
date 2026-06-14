@@ -17,9 +17,6 @@ I work across research, policy, and engineering.
 - 📊 Quantitative researcher across political science, public health, and food systems
 - ✍️ I draft national policy, publish research, and write on system design
 
- 
-These days I split my time three ways. I'm a **Data & Research Consultant at [a2i](https://a2i.gov.bd)**, the Bangladesh government's digital transformation programme, where I work on digital public infrastructure, interoperability, and digital governance. I founded **[Verne](https://vernesystems.com)**, a forward deployed engineering company. And I build at **[Ophanix](https://ophanix.org)**, where I shipped the Ophanix Control Panel.
-
 ---
 
 ### Things I've done
@@ -69,80 +66,160 @@ Quantitative and computational work spanning several fields:
 ---
  
 ### Tech Stack
- 
-**Languages**
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
- 
-**Machine Learning, Deep Learning & NLP**
- 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
-![Gensim](https://img.shields.io/badge/Gensim-2C3E50?style=for-the-badge)
- 
-**Statistics & Simulation**
- 
-![SPSS](https://img.shields.io/badge/SPSS-052049?style=for-the-badge)
-![Stata](https://img.shields.io/badge/Stata-1A5276?style=for-the-badge)
-![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=wolframmathematica&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
- 
-**Data Visualization**
- 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge)
- 
-**Web & Backend**
- 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
- 
-**DevOps & Cloud**
- 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
- 
-**MLOps & DataOps**
- 
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
- 
-**Databases & Research Tools**
- 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![KoboToolbox](https://img.shields.io/badge/KoboToolbox-2095F3?style=for-the-badge)
-![NVivo](https://img.shields.io/badge/NVivo-5B2C86?style=for-the-badge)
-![MAXQDA](https://img.shields.io/badge/MAXQDA-00A0E3?style=for-the-badge)
+
+Tools I reach for regularly, grouped by domain. Click an icon to open its docs.
+
+<details open>
+<summary><b>Languages</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="88"><a href="https://www.python.org/" title="Python"><img src="tech-logos/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a><br><sub><b>Python</b></sub></td>
+    <td align="center" width="88"><a href="https://www.r-project.org/" title="R"><img src="tech-logos/icons/r/r-original.svg" width="40" height="40" alt="R"/></a><br><sub><b>R</b></sub></td>
+    <td align="center" width="88"><a href="https://www.postgresql.org/" title="SQL"><img src="tech-logos/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL"/></a><br><sub><b>SQL</b></sub></td>
+    <td align="center" width="88"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="tech-logos/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a><br><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="88"><a href="https://www.typescriptlang.org/" title="TypeScript"><img src="tech-logos/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a><br><sub><b>TypeScript</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="88"><a href="https://isocpp.org/" title="C++"><img src="tech-logos/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/></a><br><sub><b>C++</b></sub></td>
+    <td align="center" width="88"><a href="https://www.mathworks.com/products/matlab.html" title="MATLAB"><img src="tech-logos/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB"/></a><br><sub><b>MATLAB</b></sub></td>
+    <td align="center" width="88"><a href="https://www.php.net/" title="PHP"><img src="tech-logos/icons/php/php-original.svg" width="40" height="40" alt="PHP"/></a><br><sub><b>PHP</b></sub></td>
+    <td align="center" width="88"><a href="https://www.latex-project.org/" title="LaTeX"><img src="tech-logos/icons/latex/latex-original.svg" width="40" height="40" alt="LaTeX"/></a><br><sub><b>LaTeX</b></sub></td>
+    <td align="center" width="88"><a href="https://www.gnu.org/software/bash/" title="Bash"><img src="tech-logos/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/></a><br><sub><b>Bash</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="88"><a href="https://go.dev/" title="Go"><img src="tech-logos/icons/go/go-original.svg" width="40" height="40" alt="Go"/></a><br><sub><b>Go</b></sub></td>
+    <td align="center" width="88"><a href="https://julialang.org/" title="Julia"><img src="tech-logos/icons/julia/julia-original.svg" width="40" height="40" alt="Julia"/></a><br><sub><b>Julia</b></sub></td>
+    <td align="center" width="88"><a href="https://www.rust-lang.org/" title="Rust"><img src="tech-logos/icons/rust/rust-original.svg" width="40" height="40" alt="Rust"/></a><br><sub><b>Rust</b></sub></td>
+  </tr>
+</table>
+</details>
+
+<details open>
+<summary><b>Machine Learning, Deep Learning & NLP</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="88"><a href="https://pytorch.org/" title="PyTorch"><img src="tech-logos/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/></a><br><sub><b>PyTorch</b></sub></td>
+    <td align="center" width="88"><a href="https://www.tensorflow.org/" title="TensorFlow"><img src="tech-logos/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/></a><br><sub><b>TensorFlow</b></sub></td>
+    <td align="center" width="88"><a href="https://scikit-learn.org/" title="scikit-learn"><img src="tech-logos/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn"/></a><br><sub><b>scikit-learn</b></sub></td>
+    <td align="center" width="88"><a href="https://pandas.pydata.org/" title="Pandas"><img src="tech-logos/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></a><br><sub><b>Pandas</b></sub></td>
+    <td align="center" width="88"><a href="https://numpy.org/" title="NumPy"><img src="tech-logos/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/></a><br><sub><b>NumPy</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="88"><a href="https://scipy.org/" title="SciPy"><img src="tech-logos/SCIPY.svg" width="40" height="40" alt="SciPy"/></a><br><sub><b>SciPy</b></sub></td>
+    <td align="center" width="88"><a href="https://radimrehurek.com/gensim/" title="Gensim"><img src="tech-logos/gensim.png" width="40" height="40" alt="Gensim"/></a><br><sub><b>Gensim</b></sub></td>
+    <td align="center" width="88"><a href="https://huggingface.co/" title="Hugging Face"><img src="tech-logos/huggingface.svg" width="40" height="40" alt="Hugging Face"/></a><br><sub><b>Hugging Face</b></sub></td>
+    <td align="center" width="88"><a href="https://www.langchain.com/" title="LangChain"><img src="tech-logos/langchain.svg" width="40" height="40" alt="LangChain"/></a><br><sub><b>LangChain</b></sub></td>
+    <td align="center" width="88"><a href="https://streamlit.io/" title="Streamlit"><img src="tech-logos/icons/streamlit/streamlit-original.svg" width="40" height="40" alt="Streamlit"/></a><br><sub><b>Streamlit</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="88"><a href="https://pytorch3d.org/" title="PyTorch3D"><img src="tech-logos/pytorch3d.svg" width="40" height="40" alt="PyTorch3D"/></a><br><sub><b>PyTorch3D</b></sub></td>
+    <td align="center" width="88"><a href="https://langchain-ai.github.io/langgraph/" title="LangGraph"><img src="tech-logos/langgraph.svg" width="40" height="40" alt="LangGraph"/></a><br><sub><b>LangGraph</b></sub></td>
+  </tr>
+</table>
+</details>
+
+<details open>
+<summary><b>Statistics & Simulation</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="88"><a href="https://www.ibm.com/spss" title="SPSS"><img src="tech-logos/icons/spss/spss-original.svg" width="40" height="40" alt="SPSS"/></a><br><sub><b>SPSS</b></sub></td>
+    <td align="center" width="88"><a href="https://www.stata.com/" title="Stata"><img src="tech-logos/icons/stata/stata-original-wordmark.svg" height="32" alt="Stata"/></a><br><sub><b>Stata</b></sub></td>
+    <td align="center" width="88"><a href="https://www.wolfram.com/" title="Wolfram"><img src="tech-logos/icons/wolfram/wolfram-original.svg" width="40" height="40" alt="Wolfram"/></a><br><sub><b>Wolfram</b></sub></td>
+    <td align="center" width="88"><a href="https://jupyter.org/" title="Jupyter"><img src="tech-logos/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/></a><br><sub><b>Jupyter</b></sub></td>
+  </tr>
+</table>
+</details>
+
+<details open>
+<summary><b>Data Visualization</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="88"><a href="https://powerbi.microsoft.com/" title="Power BI"><img src="tech-logos/Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/></a><br><sub><b>Power BI</b></sub></td>
+    <td align="center" width="88"><a href="https://www.tableau.com/" title="Tableau"><img src="tech-logos/tableau.svg" width="40" height="40" alt="Tableau"/></a><br><sub><b>Tableau</b></sub></td>
+    <td align="center" width="88"><a href="https://plotly.com/" title="Plotly"><img src="tech-logos/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly"/></a><br><sub><b>Plotly</b></sub></td>
+    <td align="center" width="88"><a href="https://d3js.org/" title="D3.js"><img src="tech-logos/icons/d3js/d3js-original.svg" width="40" height="40" alt="D3.js"/></a><br><sub><b>D3.js</b></sub></td>
+    <td align="center" width="88"><a href="https://matplotlib.org/" title="matplotlib"><img src="tech-logos/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="matplotlib"/></a><br><sub><b>matplotlib</b></sub></td>
+  </tr>
+</table>
+</details>
+
+<details open>
+<summary><b>Web & Backend</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="88"><a href="https://nextjs.org/" title="Next.js"><img src="tech-logos/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/></a><br><sub><b>Next.js</b></sub></td>
+    <td align="center" width="88"><a href="https://react.dev/" title="React"><img src="tech-logos/icons/react/react-original.svg" width="40" height="40" alt="React"/></a><br><sub><b>React</b></sub></td>
+    <td align="center" width="88"><a href="https://fastapi.tiangolo.com/" title="FastAPI"><img src="tech-logos/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/></a><br><sub><b>FastAPI</b></sub></td>
+    <td align="center" width="88"><a href="https://nodejs.org/" title="Node.js"><img src="tech-logos/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/></a><br><sub><b>Node.js</b></sub></td>
+    <td align="center" width="88"><a href="https://graphql.org/" title="GraphQL"><img src="tech-logos/graphql.svg" width="40" height="40" alt="GraphQL"/></a><br><sub><b>GraphQL</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="88"><a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="tech-logos/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/></a><br><sub><b>Tailwind</b></sub></td>
+    <td align="center" width="88"><a href="https://supabase.com/" title="Supabase"><img src="tech-logos/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase"/></a><br><sub><b>Supabase</b></sub></td>
+    <td align="center" width="88"><a href="https://www.djangoproject.com/" title="Django"><img src="tech-logos/django.svg" width="40" height="40" alt="Django"/></a><br><sub><b>Django</b></sub></td>
+  </tr>
+</table>
+</details>
+
+<details open>
+<summary><b>DevOps & Cloud</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="88"><a href="https://www.docker.com/" title="Docker"><img src="tech-logos/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></a><br><sub><b>Docker</b></sub></td>
+    <td align="center" width="88"><a href="https://kubernetes.io/" title="Kubernetes"><img src="tech-logos/icons/kubernetes/kubernetes-original.svg" width="40" height="40" alt="Kubernetes"/></a><br><sub><b>Kubernetes</b></sub></td>
+    <td align="center" width="88"><a href="https://github.com/features/actions" title="GitHub Actions"><img src="tech-logos/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions"/></a><br><sub><b>GitHub Actions</b></sub></td>
+    <td align="center" width="88"><a href="https://www.terraform.io/" title="Terraform"><img src="tech-logos/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform"/></a><br><sub><b>Terraform</b></sub></td>
+    <td align="center" width="88"><a href="https://www.ansible.com/" title="Ansible"><img src="tech-logos/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible"/></a><br><sub><b>Ansible</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="88"><a href="https://cloud.google.com/" title="Google Cloud"><img src="tech-logos/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/></a><br><sub><b>Google Cloud</b></sub></td>
+    <td align="center" width="88"><a href="https://aws.amazon.com/" title="AWS"><img src="tech-logos/aws.svg" width="40" height="40" alt="AWS"/></a><br><sub><b>AWS</b></sub></td>
+    <td align="center" width="88"><a href="https://azure.microsoft.com/" title="Azure"><img src="tech-logos/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/></a><br><sub><b>Azure</b></sub></td>
+    <td align="center" width="88"><a href="https://grafana.com/" title="Grafana"><img src="tech-logos/icons/grafana/grafana-original.svg" width="40" height="40" alt="Grafana"/></a><br><sub><b>Grafana</b></sub></td>
+  </tr>
+</table>
+</details>
+
+<details open>
+<summary><b>MLOps & DataOps</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="88"><a href="https://mlflow.org/" title="MLflow"><img src="tech-logos/ml-flow.svg" width="40" height="40" alt="MLflow"/></a><br><sub><b>MLflow</b></sub></td>
+    <td align="center" width="88"><a href="https://wandb.ai/" title="Weights & Biases"><img src="tech-logos/weights_and_biases.svg" width="40" height="40" alt="Weights & Biases"/></a><br><sub><b>W&amp;B</b></sub></td>
+    <td align="center" width="88"><a href="https://airflow.apache.org/" title="Airflow"><img src="tech-logos/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Airflow"/></a><br><sub><b>Airflow</b></sub></td>
+    <td align="center" width="88"><a href="https://spark.apache.org/" title="Spark"><img src="tech-logos/icons/apachespark/apachespark-original.svg" width="40" height="40" alt="Spark"/></a><br><sub><b>Spark</b></sub></td>
+    <td align="center" width="88"><a href="https://kafka.apache.org/" title="Kafka"><img src="tech-logos/icons/apachekafka/apachekafka-original.svg" width="40" height="40" alt="Kafka"/></a><br><sub><b>Kafka</b></sub></td>
+  </tr>
+</table>
+</details>
+
+<details open>
+<summary><b>Databases & Research Tools</b></summary>
+<br>
+<table>
+  <tr>
+    <td align="center" width="88"><a href="https://www.mysql.com/" title="MySQL"><img src="tech-logos/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/></a><br><sub><b>MySQL</b></sub></td>
+    <td align="center" width="88"><a href="https://www.postgresql.org/" title="PostgreSQL"><img src="tech-logos/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/></a><br><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="88"><a href="https://www.mongodb.com/" title="MongoDB"><img src="tech-logos/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/></a><br><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="88"><a href="https://redis.io/" title="Redis"><img src="tech-logos/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/></a><br><sub><b>Redis</b></sub></td>
+    <td align="center" width="88"><a href="https://git-scm.com/" title="Git"><img src="tech-logos/icons/git/git-original.svg" width="40" height="40" alt="Git"/></a><br><sub><b>Git</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="88"><a href="https://www.elastic.co/elasticsearch/" title="Elasticsearch"><img src="tech-logos/icons/elasticsearch/elasticsearch-original.svg" width="40" height="40" alt="Elasticsearch"/></a><br><sub><b>Elasticsearch</b></sub></td>
+    <td align="center" width="88"><a href="https://neo4j.com/" title="Neo4j"><img src="tech-logos/icons/neo4j/neo4j-original.svg" width="40" height="40" alt="Neo4j"/></a><br><sub><b>Neo4j</b></sub></td>
+    <td align="center" width="88"><a href="https://www.maxqda.com/" title="MAXQDA"><img src="tech-logos/MAXQDA.svg" width="40" height="40" alt="MAXQDA"/></a><br><sub><b>MAXQDA</b></sub></td>
+    <td align="center" width="88"><a href="https://www.kobotoolbox.org/" title="KoboToolbox"><img src="tech-logos/kobotoolbox.png" width="40" height="40" alt="KoboToolbox"/></a><br><sub><b>KoboToolbox</b></sub></td>
+    <td align="center" width="88"><a href="https://lumivero.com/products/nvivo/" title="NVivo"><img src="tech-logos/nvivo.png" width="40" height="40" alt="NVivo"/></a><br><sub><b>NVivo</b></sub></td>
+  </tr>
+</table>
+</details>
  
 ---
  
