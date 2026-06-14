@@ -5,7 +5,7 @@
 </p>
 ---
  
-### The short version
+### About me
  
 I started out in newsrooms and somehow ended up modeling cholera outbreaks, then drafting the policies I now have to live under. The throughline is simpler than the CV makes it look: take a messy real-world problem, find the signal in it, and build something that holds up under scrutiny, whether that something is a statistical model, a policy, or a piece of production software.
 
